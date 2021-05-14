@@ -1,6 +1,6 @@
 # Probalistic_Fiber_Tracking
 
-This github repository contains the codes for the manuscript "Probabilistic Diffusion MRI Fiber Tracking Using a Directed Acyclic Graph Auto-Regressive Model of Positive Definite Matrices".
+This github repository contains the codes for the manuscript "Probabilistic Diffusion MRI Fiber Tracking Using a Directed Acyclic Graph Auto-Regressive Model of Positive Definite Matrices" (https://arxiv.org/pdf/1906.06459.pdf).
 
 #### "Real_Data_Analysis"
 1. The folder contains all the scripts used for Section 3.
